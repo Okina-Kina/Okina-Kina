@@ -10,7 +10,3 @@
 <a href="https://github.com/Okina-kina/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okina-kina&theme=cobalt" />
 </a>
-
-<a href="https://github.com/Okina-kina" target="_blank">
-  <img src="https://grass-graph.moshimo.works/images/Okina-kina.png?rotate=0">
-</a>
